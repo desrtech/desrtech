@@ -1,5 +1,5 @@
 {
-  "name": "desertech",
+  "name": "desrtech",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:desertech": "node dist/desertech/server/server.mjs"
+    "serve:ssr:desrtech": "node dist/desrtech/server/server.mjs"
   },
   "private": true,
   "dependencies": {
